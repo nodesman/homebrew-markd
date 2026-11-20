@@ -1,9 +1,9 @@
 class Markd < Formula
   desc "Native C++20 / Qt 6 Markdown instrument for the command line"
   homepage "https://markd.aramudan.dev"
-  url "https://github.com/nodesman/markd-releases/releases/download/v0.1.1/Markd-0.1.1-darwin-arm64.tar.gz", using: :nounzip
-  version "0.1.1"
-  sha256 "c0153c7e48b3a92a198aa44845f3fe327c8dd7c93d4b098117b05d91d2014248"
+  url "https://github.com/nodesman/markd-releases/releases/download/v0.1.2/Markd-0.1.2-darwin-arm64.tar.gz", using: :nounzip
+  version "0.1.2"
+  sha256 "4187b2779bf513a243f3ce111cf1c82b75318c79cc2459365e0b94917919bde2"
   license "GPL-3.0-only"
 
   def install
